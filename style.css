@@ -1,0 +1,37 @@
+/* General body styles */
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* Breaking news banner */
+.breaking-news {
+    background-color: red;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+/* News content */
+.news-content {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.news-image {
+    width: 50%;
+    height: auto;
+    border: 5px solid #333;
+}
+
+.headline-text {
+    font-weight: bold;
+    font-size: 2em;
+    margin-top: 20px;
+    color: #000;
+}
